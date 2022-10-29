@@ -6,7 +6,7 @@ Local stats calculation
 ```
 
 Hadoop stats calculation
-```
+```bash
 # ./hadoop-docker/start.sh
 ./src/run_mapred.sh # stores result in ./outputs/mapred.
 ```
